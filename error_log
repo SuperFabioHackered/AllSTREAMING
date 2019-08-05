@@ -1,0 +1,12 @@
+[19-Jul-2019 19:43:06 UTC] PHP Warning:  fopen(m3u/Uk-Usa19072019_allstreaming.xyz.m3u): failed to open stream: No such file or directory in /home3/fabiocas/allstreaming.xyz/stream/app/index.php on line 137
+[19-Jul-2019 19:43:56 UTC] PHP Warning:  fopen(m3u/Uk-Usa19072019_allstreaming.xyz.m3u): failed to open stream: No such file or directory in /home3/fabiocas/allstreaming.xyz/stream/app/index.php on line 137
+[19-Jul-2019 20:08:27 UTC] PHP Warning:  fopen(m3u/Italy19072019_allstreaming.xyz.m3u): failed to open stream: No such file or directory in /home3/fabiocas/allstreaming.xyz/stream/app/index.php on line 137
+[19-Jul-2019 20:08:39 UTC] PHP Warning:  fopen(m3u/Italy19072019_allstreaming.xyz.m3u): failed to open stream: No such file or directory in /home3/fabiocas/allstreaming.xyz/stream/app/index.php on line 137
+[02-Aug-2019 08:07:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home3/fabiocas/allstreaming.xyz/stream/app/index.php on line 58
+[02-Aug-2019 08:07:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home3/fabiocas/allstreaming.xyz/stream/app/index.php on line 58
+[02-Aug-2019 09:43:40 UTC] PHP Parse error:  syntax error, unexpected 'w3' (T_STRING), expecting ',' or ';' in /home3/fabiocas/allstreaming.xyz/stream/app/index.php on line 56
+[02-Aug-2019 12:34:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/fabiocas/allstreaming.xyz/stream/app/index-checkbox.php on line 127
+[02-Aug-2019 12:34:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/fabiocas/allstreaming.xyz/stream/app/index-checkbox.php on line 130
+[02-Aug-2019 12:36:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home3/fabiocas/allstreaming.xyz/stream/app/index-checkbox.php on line 127
+[02-Aug-2019 12:36:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/fabiocas/allstreaming.xyz/stream/app/index-checkbox.php on line 130
+[02-Aug-2019 12:51:29 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home3/fabiocas/allstreaming.xyz/stream/app/index-checkbox.php on line 111
